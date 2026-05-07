@@ -1,0 +1,6 @@
+# Astro Runtime includes Airflow and its base dependencies.
+# Add only project-specific Python packages here.
+apache-airflow-providers-amazon
+apache-airflow-providers-snowflake
+pandas
+requests

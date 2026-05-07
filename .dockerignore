@@ -1,0 +1,14 @@
+astro
+.git
+.env
+airflow_settings.yaml
+logs/
+.venv
+airflow.db
+airflow.cfg
+__pycache__/
+*.pyc
+include/*.db
+include/*.duckdb
+include/data/raw/
+include/data/processed/
