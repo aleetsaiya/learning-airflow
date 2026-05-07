@@ -1,4 +1,4 @@
-# Airflow Project For Learning Data Integration
+# Apache Airflow Data Integration Pipeline
 
 This is a simple Apache Airflow project I built to learn how to create DAGs and connect a data pipeline with different services.
 
