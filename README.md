@@ -2,9 +2,9 @@
 
 This is a simple Apache Airflow project I built to learn how to create DAGs and connect a data pipeline with different services.
 
-The project simulates a real-world data integration workflow. The DAG fetches data from an API, stores raw JSON data in an Amazon S3 bucket, loads that raw data into Snowflake, and then creates an analytics view in Snowflake for further analysis.
+The project simulates a real-world data integration workflow. The DAG fetches data from an API, stores raw JSON data in an Amazon S3 bucket, loads that raw data into Snowflake, and then creates an analytics view in Snowflake for further analysis. 
 
-This project also includes a lightweight Codex skill [`airflow-project-context`](/.agents/skills/airflow-project-context/SKILL.md). It gives a new AI agent static project context about the Airflow architecture, DAG tasks, local setup, and common troubleshooting notes.
+I also includes a lightweight Codex skill [`airflow-project-context`](/.agents/skills/airflow-project-context/SKILL.md). It gives a new AI agent static project context about the Airflow architecture, DAG tasks, local setup, and common troubleshooting notes.
 
 > The project uses [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for data sources.
 
